@@ -1,0 +1,7 @@
+name: wolf
+on: [push]
+jobs:
+  WOLF:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🐺 Auf for ${{ github.actor }} 🐺"
