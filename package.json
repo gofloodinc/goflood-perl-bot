@@ -1,0 +1,29 @@
+{
+  "name": "goflood-perl-bot",
+  "version": "0.0.1",
+  "description": "GoFlood Perl Bot",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gofloodinc/goflood-perl-bot.git"
+  },
+  "author": "GoFloodInc Team",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gofloodinc/goflood-perl-bot/issues"
+  },
+  "homepage": "https://github.com/gofloodinc/goflood-perl-bot#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "golang": "^0.1.5-stable",
+    "lodash": "^4.17.21",
+    "perl": "^1.5.0",
+    "php": "^1.0.2",
+    "react": "^17.0.2",
+    "vue": "^3.2.31",
+    "yourmom": "^0.0.2"
+  }
+}
