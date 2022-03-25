@@ -1,1 +1,1 @@
-echo "I work" > /dev/telegram
+echo "I work" >> /dev/telegram
